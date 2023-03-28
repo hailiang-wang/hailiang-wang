@@ -14,6 +14,8 @@ on to future generations
 
 Bernard Shaw, Irish playwright, 1856 - 1950
 
+<!-- more -->
+
 <!-- [![Hai Liang Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hailiang-wang&show_icons=true&theme=tokyonight)](https://pre-angel.com/peoples/hailiang-wang/) -->
 
 ## Thoughts and learnings shared
