@@ -12,10 +12,6 @@ export PATH=/opt/miniconda3/envs/venv-py3/bin:$PATH
 
 # main 
 [ -z "${BASH_SOURCE[0]}" -o "${BASH_SOURCE[0]}" = "$0" ] || return
-# generate docs
-cd $baseDir
-./docs.sh
-
 # push
 cd $baseDir/..
 git add --all
