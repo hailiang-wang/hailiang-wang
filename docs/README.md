@@ -1,6 +1,6 @@
 ## Thoughts and learnings
 
-Publications of [Hai Liang W.](https://github.com/hailiang-wang), [welcome further contacts or feedbacks <hailiang.hl.wang@gmail.com>](mailto:hailiang.hl.wang@gmail.com?subject=%5BBlogs%5D%20Feedback%20on%20https%3A%2F%2Fhailiang-wang.github.io%2Fhailiang-wang&body=Hello%2C%0D%0A%0D%0AI%20just%20take%20a%20look%20at%20your%20posts%2C%0D%0A...%0D%0A%0D%0ACheers.).
+Publications of [Hai Liang W.](https://github.com/hailiang-wang), welcome further contacts or feedbacks [<hailiang.hl.wang@gmail.com>](mailto:hailiang.hl.wang@gmail.com?subject=%5BBlogs%5D%20Feedback%20on%20https%3A%2F%2Fhailiang-wang.github.io%2Fhailiang-wang&body=Hello%2C%0D%0A%0D%0AI%20just%20take%20a%20look%20at%20your%20posts%2C%0D%0A...%0D%0A%0D%0ACheers.).
 
 | Date | Post | Tags |
 | --- | --- | --- |
