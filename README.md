@@ -4,7 +4,7 @@
 
 </div>
 
-## Thoughts and learnings shared
+## Blog sharing Thoughts and Learnings
 
 * [推此志也，虽与日月争光可也 |《离骚》赏析](https://zhuanlan.zhihu.com/p/614769976) @ 2023-03
 * [《国富论》摘要 国民财富增加的原理](https://zhuanlan.zhihu.com/p/610118842) @ 2023-02
