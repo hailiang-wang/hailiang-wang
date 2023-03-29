@@ -1,4 +1,4 @@
-<div align=right>
+<div align=left>
 
 [Intro. on LinkedIn](https://www.linkedin.com/in/hai-liang-wang/) | [Sharings on GitHub](https://github.com/hailiang-wang) | [Work at Chatopera](https://steam.chatopera.com/author/hai/)
 
