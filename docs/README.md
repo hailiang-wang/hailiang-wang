@@ -1,5 +1,6 @@
 ## Thoughts and learnings shared by [Hai Liang W.](https://github.com/hailiang-wang)
 
+* [财务管理基本知识](./2023_03_26_finance_general_kb.docx) @ 2023-03-26
 * [推此志也，虽与日月争光可也 |《离骚》赏析](https://zhuanlan.zhihu.com/p/614769976) @ 2023-03
 * [《国富论》摘要 国民财富增加的原理](https://zhuanlan.zhihu.com/p/610118842) @ 2023-02
 * [尼采：自然产生人类的用意](https://zhuanlan.zhihu.com/p/605672737) @ 2023-02
