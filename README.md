@@ -29,5 +29,4 @@ Bernard Shaw, Irish playwright, 1856 - 1950
 * [推此志也，虽与日月争光可也 |《离骚》赏析](https://zhuanlan.zhihu.com/p/614769976) @ 2023-03
 * [《国富论》摘要 国民财富增加的原理](https://zhuanlan.zhihu.com/p/610118842) @ 2023-02
 * [尼采：自然产生人类的用意](https://zhuanlan.zhihu.com/p/605672737) @ 2023-02
-
-[更多 ...](https://github.com/hailiang-wang/hailiang-wang/blob/master/POSTS.md)
+* [更多 ...](https://github.com/hailiang-wang/hailiang-wang/blob/master/POSTS.md)
