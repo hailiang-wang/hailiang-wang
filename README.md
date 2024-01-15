@@ -1,6 +1,6 @@
 <div align=left>
 
-[Intro. on LinkedIn](https://www.linkedin.com/in/hai-liang-wang/) | [Sharings on GitHub](https://hailiang-wang.github.io/) | [Work at Chatopera](https://steam.chatopera.com/author/hai/)
+[Intro. on LinkedIn](https://www.linkedin.com/in/hai-liang-wang/) | [Blog](https://hailiang-wang.github.io/) | [Micro Blog](https://tribe.cskefu.com/@hai)
 
 </div>
 
