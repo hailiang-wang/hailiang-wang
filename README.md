@@ -1,6 +1,6 @@
 <div align=left>
 
-[Intro. on LinkedIn](https://www.linkedin.com/in/hai-liang-wang/) | [Blog](https://hailiang-wang.github.io/) | [Micro Blog](https://tribe.cskefu.com/@hai) | [Backups](https://github.com/hailiang-wang/backups)
+[Intro. on LinkedIn](https://www.linkedin.com/in/hai-liang-wang/) | [Blog](https://hailiang-wang.github.io/)
 
 </div>
 
