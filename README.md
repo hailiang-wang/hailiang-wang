@@ -4,4 +4,4 @@
 
 ## Tech Skills
 
-* AI - [NLP, LLMs, CV, PyTorch, etc.](https://github.com/hailiang-wang?tab=repositories&q=%23ai&type=&language=&sort=)
+* AI - [NLP, LLMs, CV, PyTorch, Chatbot, etc.](https://github.com/hailiang-wang?tab=repositories&q=%23ai&type=&language=&sort=)
