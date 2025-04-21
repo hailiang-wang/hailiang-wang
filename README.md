@@ -1,6 +1,6 @@
 ## Sharings
 
-* Learnings and Thoughts on philosophy, finance, novels, history, etc. | [Blog](https://hailiang-wang.github.io/) | [GitHub Repo](https://github.com/hailiang-wang/hailiang-wang.github.io)
+* Learnings and Thoughts on philosophy, finance, novels, history, etc. - [Blog](https://hailiang-wang.github.io/) | [GitHub Repo](https://github.com/hailiang-wang/hailiang-wang.github.io)
 
 ## Tech Skills
 
