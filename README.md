@@ -5,3 +5,4 @@
 ## Tech Skills
 
 * AI - [NLP, LLMs, CV, PyTorch, Chatbot, etc.](https://github.com/hailiang-wang?tab=repositories&q=%23ai&type=&language=&sort=)
+* Enterprise Applications - [CSKeFu](https://github.com/cskefu/cskefu)
