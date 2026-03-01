@@ -1,6 +1,6 @@
 ## Sharings
 
-* Learnings and Thoughts on philosophy, finance, novels, history, etc. - [Blog]([https://hailiang-wang.github.io/](https://www.zhihu.com/people/deckard-10))
+* Learnings and Thoughts on philosophy, finance, novels, history, etc. - [Blog]([https://hailiang-wang.github.io/](https://www.zhihu.com/people/deckard-10)
 
 ## Tech Skills
 
